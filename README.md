@@ -1,9 +1,9 @@
-This project was bootstrapped with [EXPO](https://reactnative.dev/docs/environment-setup).
+
 
 ## Project Info
 
 This project contains all the node modules so you just need to clone and run the project.
-The api is taken from [NEWSAPI.ORG](https://newsapi.org/)
+The api is taken from [SPOONACULAR](https://spoonacular.com/food-api/docs)
 
 ## Available Scripts
 
