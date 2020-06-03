@@ -14,4 +14,4 @@ In the project directory, you can run:
 ### Project Image
 
 ![](img/imgf1.png)
-![](img/imgf2.png)
+![](img/imgf22.png)
